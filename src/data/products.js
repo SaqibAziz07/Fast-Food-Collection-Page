@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    image: "./public/images/products/burger 1.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL962dGgqkXn-8CbHOExzOYkoYsrUCa3NU-Q&s",
     title: "Burger1",
     description:
       "Enjoy the crispy chiken fillet in a soft bun with spicy mayo and our signature sauce",
@@ -11,7 +11,7 @@ export const products = [
   },
   {
     id: 2,
-    image: "/images/products/shawarma.jpg",
+    image: "https://img.freepik.com/premium-psd/shawarma-social-media-promotion-instagram-facebook-banner-post-design-template_1046369-4.jpg?semt=ais_hybrid&w=740&q=80",
     title: "Shawarma1",
     description:
       "Aromatic arabian rice with 6 pacs of hot shots with KFC famous vietnamese sauce",
@@ -21,7 +21,7 @@ export const products = [
   },
   {
     id: 3,
-    image: "./public/images/products/pizza 1.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3obPBo7-hRt_37sfcxV5NyjlLru4-QGxkw&s",
     title: "Pizza1",
     description: "Crispy zinger with crispy rolled into paratha",
     price: 300,
@@ -30,7 +30,7 @@ export const products = [
   },
   {
     id: 4,
-    image: "./public/images/products/burger 1.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL962dGgqkXn-8CbHOExzOYkoYsrUCa3NU-Q&s",
     title: "Burger2",
     description:
       "Enjoy the crispy chiken fillet in a soft bun with spicy mayo and our signature sauce",
@@ -40,7 +40,7 @@ export const products = [
   },
   {
     id: 5,
-    image: "/images/products/shawarma.jpg",
+    image: "https://img.freepik.com/premium-psd/shawarma-social-media-promotion-instagram-facebook-banner-post-design-template_1046369-4.jpg?semt=ais_hybrid&w=740&q=80",
     title: "Shawarma2",
     description:
       "Aromatic arabian rice with 6 pacs of hot shots with KFC famous vietnamese sauce",
@@ -50,7 +50,7 @@ export const products = [
   },
   {
     id: 6,
-    image: "./public/images/products/pizza 1.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3obPBo7-hRt_37sfcxV5NyjlLru4-QGxkw&s",
     title: "Pizza2",
     description: "Crispy zinger with crispy rolled into paratha",
     price: 600,
@@ -59,7 +59,7 @@ export const products = [
   },
   {
     id: 7,
-    image: "./public/images/products/burger 1.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL962dGgqkXn-8CbHOExzOYkoYsrUCa3NU-Q&s",
     title: "Burger3",
     description:
       "Enjoy the crispy chiken fillet in a soft bun with spicy mayo and our signature sauce",
@@ -69,7 +69,7 @@ export const products = [
   },
   {
     id: 8,
-    image: "/images/products/shawarma.jpg",
+    image: "https://img.freepik.com/premium-psd/shawarma-social-media-promotion-instagram-facebook-banner-post-design-template_1046369-4.jpg?semt=ais_hybrid&w=740&q=80",
     title: "Shawarma3",
     description:
       "Aromatic arabian rice with 6 pacs of hot shots with KFC famous vietnamese sauce",
@@ -79,7 +79,7 @@ export const products = [
   },
   {
     id: 9,
-    image: "./public/images/products/pizza 1.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3obPBo7-hRt_37sfcxV5NyjlLru4-QGxkw&s",
     title: "Pizza3",
     description: "Crispy zinger with crispy rolled into paratha",
     price: 900,
